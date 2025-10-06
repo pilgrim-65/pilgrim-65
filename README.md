@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pilgrim-65
 - 👀 I’m interested in math, python programming and Data Science
-- 🌱 I’m currently learning Data Science in Codecademy
+- 🌱 I’m also an enthusiast of AI programming
 - 📫 How to reach me lozanojm65@gmail.com
 
 <!---
